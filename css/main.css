@@ -1,0 +1,52 @@
+@import url("./fonts.css");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+:root {
+  /* color */
+  --body-color: #808080;
+  --white: #ffffff;
+  --dark-color: #202c36;
+  --light-dark: #2b3844;
+  --text-color: #111517;
+
+  /* fonts */
+
+  --italic: "NunitoSans-italic";
+  --variable: "NunitoSans-VariableFont";
+}
+
+/* HEADER START */
+
+/* NAVBAR */
+
+.header__nav {
+  background: #fff;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+}
+
+.header__logo {
+  color: var(--text-color);
+  font-family: var(--italic);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.header__search__inp {
+  border-radius: 5px;
+  background: #fff;
+  padding: 10px;
+  box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+}
+/* HEADER END */

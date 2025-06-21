@@ -1,0 +1,16 @@
+/* NunitoSans-italic */
+
+@font-face {
+    font-family: "NunitoSans-italic";
+    src: url("../fonts/NunitoSans-Italic-VariableFont_YTLC\,opsz\,wdth\,wght.ttf");
+    font-weight: 800;
+}
+
+/* NunitoSans-VariableFont */
+
+@font-face {
+    font-family: "NunitoSans-VariableFont";
+    src: url("../fonts/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf");
+    font-weight: 600;
+}
+
