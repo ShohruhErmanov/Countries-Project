@@ -49,4 +49,8 @@ a {
   padding: 10px;
   box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
 }
+.header__search__selcet {
+  border-radius: 5px;
+  box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+}
 /* HEADER END */
