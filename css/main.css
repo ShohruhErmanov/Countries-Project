@@ -49,4 +49,21 @@ a {
   padding: 10px;
   box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
 }
+.header__search__selcet {
+  border-radius: 5px;
+  box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+}
 /* HEADER END */
+
+/* MAIN START */
+
+.main__card__desc h5 {
+  color: var(--text-color);
+  font-family: var(--italic);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 26px;
+}
+
+/* MAIN END */
